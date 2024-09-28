@@ -4,8 +4,8 @@ import json
 from datetime import datetime
 
 # Vos identifiants Spotify
-CLIENT_ID = '315c5c5eb8144cfd8aa4c035063d6e91'
-CLIENT_SECRET = 'eb5c0d3330b645edba43e437524bed90'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 
 # Configuration de l'authentification
 client_credentials_manager = SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET)
